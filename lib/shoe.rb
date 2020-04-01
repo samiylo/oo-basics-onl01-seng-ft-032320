@@ -9,7 +9,7 @@ class Shoe
   end
   
   def condition=(input_condition)
-    :condition = input_condition
+    @condition = input_condition
   end
    
   
