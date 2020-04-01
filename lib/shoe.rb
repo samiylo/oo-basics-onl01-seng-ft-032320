@@ -8,8 +8,8 @@ class Shoe
     @brand = input_brand
   end
   
-  def cobble=(input_condition)
-    @condition = input_condition
+  def cobble
+    @condition = "repaired"
   end
    
   
