@@ -8,7 +8,7 @@ class Shoe
     @brand = input_brand
   end
   
-  def condition=(input_condition)
+  def cobble=(input_condition)
     @condition = input_condition
   end
    
