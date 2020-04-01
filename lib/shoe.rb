@@ -4,6 +4,7 @@ class Shoe
   def initialize(input_brand)
     @brand = input_brand
   end
+  attr_accessor: 
   
 end
     
